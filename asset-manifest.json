@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instapicsum/static/css/main.b54cdd40.css",
+    "main.js": "/instapicsum/static/js/main.c6d3b455.js",
+    "index.html": "/instapicsum/index.html",
+    "main.b54cdd40.css.map": "/instapicsum/static/css/main.b54cdd40.css.map",
+    "main.c6d3b455.js.map": "/instapicsum/static/js/main.c6d3b455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54cdd40.css",
+    "static/js/main.c6d3b455.js"
+  ]
+}
